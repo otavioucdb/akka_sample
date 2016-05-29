@@ -1,10 +1,11 @@
-
-# akka_sample
 Akka sample
 
+Projeto feito em Scala + Akka, para demonstrar o funcionamento do Akka e seus recursos:
 
-
-
-
-A minimal seed template for an Akka with Scala build 
->>>>>>> Projeto completo de exemplo do uso de akka para programação concorrente
+* Programação concorrente com atores;
+* Supervisores
+* Roteadores
+* Troca de mensagem entre atores e não atores
+* Tolerância a falhas
+* Testes
+* Etc
